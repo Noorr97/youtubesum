@@ -1,0 +1,5 @@
+streamlit
+transformers
+yt-dlp
+youtube-transcript-api
+torch
